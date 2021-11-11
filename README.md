@@ -26,6 +26,8 @@ suba a aplicação
 yarn install
 ```
 
+## Acessando online
+Você pode acessar esse repositório e o clonar no CodeSandbox: [https://codesandbox.io/s/github/paulhenrique/react-editor](https://codesandbox.io/s/github/paulhenrique/react-editor)
 
 ## Autor 🧑
 Paulo Henrique Vieira Cândido
