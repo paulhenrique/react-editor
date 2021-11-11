@@ -1,2 +1,2 @@
 # react-editor
-Created with CodeSandbox
+In development
